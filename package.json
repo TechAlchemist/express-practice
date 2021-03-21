@@ -4,6 +4,7 @@
 	"description": "A practice directory for Node, express, microservices, and APIs.",
 	"keywords": ["freecodecamp", "API", "Node.js", "Microservice"],
 	"license": "MIT",
+	 "version": "1.0.4",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
