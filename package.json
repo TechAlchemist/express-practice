@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Brandon Myers",
+	"description": "A practice directory for Node, express, microservices, and APIs.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
