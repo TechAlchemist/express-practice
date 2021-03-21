@@ -3,6 +3,7 @@
 	"author": "Brandon Myers",
 	"description": "A practice directory for Node, express, microservices, and APIs.",
 	"keywords": ["freecodecamp", "API", "Node.js", "Microservice"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
